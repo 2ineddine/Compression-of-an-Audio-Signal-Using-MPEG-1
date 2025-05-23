@@ -1,5 +1,4 @@
-# Compression-of-an-Audio-Signal-Using-MPEG-1
-# MPEG-1 Perceptual Audio Compression – TP4 Summary
+# MPEG-1 Perceptual Audio Compression 
 
 ## Overview
 
