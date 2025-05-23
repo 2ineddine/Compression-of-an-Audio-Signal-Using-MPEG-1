@@ -7,7 +7,7 @@ This project is a practical exploration of audio compression techniques inspired
 
 The diagram below illustrates the encoding pipeline used in MPEG-1-based compression:
 
-![Figure 3 – MPEG-1 Encoding Diagram](./im1.png)
+![Figure 3 – MPEG-1 Encoding Diagram](./im1.PNG)
 
 ## Processing Chain Description
 
@@ -68,8 +68,5 @@ Each was tested at various target bitrates (64 kbps to 396 kbps) using both:
 - Integration of entropy coding (e.g., Huffman)
 - More advanced psychoacoustic models
 
-## Reference
 
-- Figure 3 – MPEG-1 Audio Encoding Structure  
-  Adapted from the MPEG-1 Layer III standard
 
